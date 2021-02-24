@@ -1,0 +1,3 @@
+dmxleo.dailymotion.com/cdn/manifest/video/
+redirector.gvt1.com/api
+v12-a.sdn.cz/v_12
