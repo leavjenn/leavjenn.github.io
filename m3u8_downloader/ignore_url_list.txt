@@ -1,6 +1,6 @@
-# dailymotion.com: https://dmxleo.dailymotion.com/cdn/manifest/video/xi7gyi5.m3u8?auth=...
+# dailymotion.com
 dmxleo.dailymotion.com/cdn/manifest/video/
-# Google ads: https://redirector.gvt1.com/api/manifest/hls_variant/requiressl/yes/source/gfp_video_ads/id/...
+# Google ads
 redirector.gvt1.com/api
-# televizeseznam.cz: https://v12-a.sdn.cz/v_12/vmd_ko_165146700/1599481677?fl=mdk,d6162750|hls2,4,VOD
+# televizeseznam.cz
 v12-a.sdn.cz/v_12
