@@ -4,3 +4,5 @@ dmxleo.dailymotion.com/cdn/manifest/video/
 redirector.gvt1.com/api
 # televizeseznam.cz
 v12-a.sdn.cz/v_12
+# NSFW
+stream.highwebmedia.com
