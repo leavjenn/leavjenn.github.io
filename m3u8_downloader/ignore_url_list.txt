@@ -1,3 +1,6 @@
+# source address: https://github.com/leavjenn/leavjenn.github.io/blob/master/m3u8_downloader/ignore_url_list.txt
+# if update failed, you can copy/paste from there.
+
 # dailymotion.com
 dmxleo.dailymotion.com/cdn/manifest/video/
 # Google ads
