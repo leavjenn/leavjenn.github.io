@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width'>
+    <title>Hews 2 Notification Account Privacy FAQ</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            padding: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Hews 2 Notification Account Privacy FAQ</h1>
+    <h2> Is this my Hacker News account?</h2>
+    <p>NO. The notification account has nothing to do with your Hacker News account. This account is only related to the
+        Hews 2 app.</p>
+    <h2>Why do I need another account?</h2>
+    <p>To get push notifications of new comments and sync related data across devices.</p>
+    <h2>Why only provide social sign in, no email sign up?</h2>
+    <p>Because it's, well, easier. I don't need to work on features like verifying email address, forgetting password,
+        resetting password, etc.</p>
+    <h2>More detail?</h2>
+    <p>The Hews 2 notification system is totally based on Firebase services. </p>
+    <p>Firebase Auth for account management; Firebase realtime database for storing notification-related data; Firebase
+        cloud function for checking Hacker News update and sending notification via Firebase cloud messaging.</p>
+    <h2>Is the Firebase backend open-sourced?</h2>
+    <p>The Firebase cloud function will be open-sourced (//TODO function link).</p>
+    <h2>Why use Firebase instead of other services?</h2>
+    <p>Easy to get started, fitted well with Flutter, and, based on my current observation, should be free for this app.
+    </p>
+    <h2>What personal data does this account collect?</h2>
+    <p>Your sign-in social account-associated email.</p>
+    <h2>Can I delete my notification account?</h2>
+    <p>Yes.</p>
+    <h2>What happens to my personal data after I delete my account?</h2>
+    <p>Your personal identifiable data (on Firebase auth) and notification-related data (on Firebase database) will be
+        deleted immediately. You can check the source code here: (//TODO add link).</p>
+</body>
+
+</html>
