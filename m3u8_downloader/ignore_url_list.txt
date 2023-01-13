@@ -10,5 +10,6 @@ v12-a.sdn.cz/v_12
 # NSFW
 stream.highwebmedia.com
 doppiocdn.com
+doppiocdn.org
 # hotstar
 hesads.akamaized.net
